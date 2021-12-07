@@ -1,0 +1,13 @@
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingDay21\UserRegexExceptionHandlingDay21\bin\Debug\netcoreapp3.1\UserRegexExceptionHandlingDay21.exe
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingDay21\UserRegexExceptionHandlingDay21\bin\Debug\netcoreapp3.1\UserRegexExceptionHandlingDay21.deps.json
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingDay21\UserRegexExceptionHandlingDay21\bin\Debug\netcoreapp3.1\UserRegexExceptionHandlingDay21.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingDay21\UserRegexExceptionHandlingDay21\bin\Debug\netcoreapp3.1\UserRegexExceptionHandlingDay21.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingDay21\UserRegexExceptionHandlingDay21\bin\Debug\netcoreapp3.1\UserRegexExceptionHandlingDay21.dll
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingDay21\UserRegexExceptionHandlingDay21\bin\Debug\netcoreapp3.1\UserRegexExceptionHandlingDay21.pdb
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingDay21\UserRegexExceptionHandlingDay21\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingDay21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingDay21\UserRegexExceptionHandlingDay21\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingDay21.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingDay21\UserRegexExceptionHandlingDay21\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingDay21.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingDay21\UserRegexExceptionHandlingDay21\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingDay21.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingDay21\UserRegexExceptionHandlingDay21\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingDay21.dll
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingDay21\UserRegexExceptionHandlingDay21\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingDay21.pdb
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingDay21\UserRegexExceptionHandlingDay21\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingDay21.genruntimeconfig.cache
