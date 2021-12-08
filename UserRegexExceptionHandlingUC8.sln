@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserRegexExceptionHandlingUC8", "UserRegexExceptionHandlingUC8\UserRegexExceptionHandlingUC8.csproj", "{773AEFE3-94FC-49BE-8F22-A1C707A16309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{773AEFE3-94FC-49BE-8F22-A1C707A16309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773AEFE3-94FC-49BE-8F22-A1C707A16309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773AEFE3-94FC-49BE-8F22-A1C707A16309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773AEFE3-94FC-49BE-8F22-A1C707A16309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {637CCD34-5DFC-4FAF-BE17-9369E03D2789}
+	EndGlobalSection
+EndGlobal

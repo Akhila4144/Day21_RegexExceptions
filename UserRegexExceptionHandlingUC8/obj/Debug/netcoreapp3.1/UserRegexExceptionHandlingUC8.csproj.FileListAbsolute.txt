@@ -1,0 +1,13 @@
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC8\UserRegexExceptionHandlingUC8\bin\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC8.exe
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC8\UserRegexExceptionHandlingUC8\bin\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC8.deps.json
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC8\UserRegexExceptionHandlingUC8\bin\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC8.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC8\UserRegexExceptionHandlingUC8\bin\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC8.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC8\UserRegexExceptionHandlingUC8\bin\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC8.dll
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC8\UserRegexExceptionHandlingUC8\bin\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC8.pdb
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC8\UserRegexExceptionHandlingUC8\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC8\UserRegexExceptionHandlingUC8\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC8.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC8\UserRegexExceptionHandlingUC8\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC8.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC8\UserRegexExceptionHandlingUC8\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC8.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC8\UserRegexExceptionHandlingUC8\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC8.dll
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC8\UserRegexExceptionHandlingUC8\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC8.pdb
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC8\UserRegexExceptionHandlingUC8\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC8.genruntimeconfig.cache
