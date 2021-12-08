@@ -1,0 +1,14 @@
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC5\UserRegexExceptionHandlingUC5\bin\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC5.exe
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC5\UserRegexExceptionHandlingUC5\bin\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC5.deps.json
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC5\UserRegexExceptionHandlingUC5\bin\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC5.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC5\UserRegexExceptionHandlingUC5\bin\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC5.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC5\UserRegexExceptionHandlingUC5\bin\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC5.dll
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC5\UserRegexExceptionHandlingUC5\bin\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC5.pdb
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC5\UserRegexExceptionHandlingUC5\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC5.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC5\UserRegexExceptionHandlingUC5\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC5\UserRegexExceptionHandlingUC5\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC5.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC5\UserRegexExceptionHandlingUC5\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC5.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC5\UserRegexExceptionHandlingUC5\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC5.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC5\UserRegexExceptionHandlingUC5\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC5.dll
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC5\UserRegexExceptionHandlingUC5\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC5.pdb
+C:\Users\Raj Nani\source\repos\UserRegexExceptionHandlingUC5\UserRegexExceptionHandlingUC5\obj\Debug\netcoreapp3.1\UserRegexExceptionHandlingUC5.genruntimeconfig.cache
